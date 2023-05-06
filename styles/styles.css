@@ -25,12 +25,12 @@ body {
     margin-bottom: 40px;
  }
  .about-position{
-font-style: normal;
-font-weight: 700;
-font-size: 14px;
-line-height: 17px;
-color: #000000;
-margin-bottom: 20px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 20px;
 
  }
  .about-name{
@@ -186,7 +186,7 @@ color: #A8A8A8;
  /* sidebar styles */
  .sidebar {
     background: #1E2939;
-    padding-top: 40px;
+    padding-top:40px;
     width: 370px;
  }
  .photo {
@@ -195,7 +195,6 @@ color: #A8A8A8;
  }
 
 .contacts, 
-.tech-skills,  
 .soft-skills{
     margin-left:40px;
 }
