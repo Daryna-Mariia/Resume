@@ -1,23 +1,24 @@
- body {
+body {
     font-family: 'Montserrat', sans-serif;
-    background-color: #E5E5E5;
- }
+    background-color: #F5F7FA;
+}
 
  /* main styles */
-.main {
+ .main {
     display: flex;
     flex-direction: row-reverse;
-    width: 1200px
-    margin: 0 auto;
  
+    width: 1200px;
+    margin: 0 auto;
+
 }
 
  /* Main content */
 
  .main-content {
-    background: #FFFFFF;
+    background-color: #FFFFFF;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
-    padding: 100px 90px
+    padding: 105px 90px;
  }
  /* about stiles */
  .about {
